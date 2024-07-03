@@ -1,10 +1,10 @@
 ---
 # Display name
-title: ChengXing Xie
+title: Yuchen Fan
 
 # Full name (for SEO)
-first_name: ChengXing
-last_name: Xie
+first_name: Yuchen
+last_name: Fan
 
 # Status emoji
 status:
@@ -18,29 +18,27 @@ role: Artificial Intelligence Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Xidian University
-    url: https://en.xidian.edu.cn/
-  - name: Camel.ai
-    url: https://www.camel-ai.org/
+  - name: Beijing University of Posts and Telecommunications
+    url: https://bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include LLM Agents, Multi-Modeling (VLMs, Diffusion).
+bio: My research interests include NLP and LLMs, especially evaluation of LLMs.
 
 # Interests to show in About widget
 interests:
-  - LLM Agents
-  - Multi-Modeling
-  - Generative Model
+  - NLP
+  - LLMs
+  - Evaluation
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.E in Computer Science
-      institution: Xidian University
+    - course: B.E in Communication Engineering
+      institution: Beijing University of Posts and Telecommunicatons
       year: 2021-now
     - course: Visiting Student
-      institution: KAUST (King Abdullah University of Science and Technology)
-      year: 2023.7-2024.1
+      institution: Westlake University
+      year: 2024.4-2024.8
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -89,34 +87,34 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: xiechengxing34@gmail.com
+    link: yuchenfan48@gmail.com
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
 #    label: Follow me on Twitter
 #    display:
 #      header: true
-#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#    icon_pack: fas
- #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+     icon_pack: fas
+     link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=u75E9OsAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/yitianlian
+    link: https://github.com/yuchenfan48
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
-  - icon: weixin
-    icon_pack: fab
-    link: uploads/wx.png
+  # - icon: weixin
+  #  icon_pack: fab
+  #  link: uploads/wx.png
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
-  - icon: file
-    icon_pack: far
-    link: uploads/transcript.pdf
+  # - icon: file
+  #  icon_pack: far
+  #  link: uploads/transcript.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xiechengxing34@gmail.com'
