@@ -76,43 +76,49 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Student in KAUST (IVUL, Advisor PhD Guohao Li, Prof. Bernard Ghanem)
-          company:  Image and Video Understanding Lab
-          company_url: 'https://cemse.kaust.edu.sa/ivul'
-          company_logo: kaust
-          location: Thuwal, Saudi Arabia
-          date_start: '2023-07-01'
-          date_end: '2024-01-30'
-          description: Working on the [Camel](https://github.com/camel-ai) project, probing agent trust behavior. The paper titled "Can Large Language Models Simulate Human Trust Behaviors?" has been produced.
-        - title: Researcher in Photoelectric Imaging and Brain-like Perception Lab(Adivsor Weisheng Dong)
-          company: Photoelectric Imaging and Brain-like Perception Lab
-          company_url: 'https://see.xidian.edu.cn/faculty/wsdong/'
-          company_logo: xidian
-          location: Xian China
-          date_start: '2022-11-01'
-          date_end: '2023-05-01'
-          description: Focusing on the face restoration task, research results have been published in CVPRW (MULA).
         - title: Algorithm Intern
-          company: Sensetime
-          company_url: 'https://www.sensetime.com/en'
-          company_logo: sensetime
-          location: Xian China
-          date_start: '2022-02-08'
-          date_end: '2022-11-11'
-          mentor: Qigong Sun
+          company: Frontis.ai
+          company_url: 'https://frontis.ai/'
+          location: Beijing China
+          date_start: '2024-07-02'
+          date_end: '2024-08-15'
+          mentor: Yuanchun Zheng
           description: |2-
               Responsibilities include:
-
-              * developing
-              * Modelling
-        - title: Undergraduate of Xidian University
-          company: Xidian University
-          company_url: 'https://en.xidian.edu.cn/'
-          company_logo: xidian
-          location: Xian China
+              * Leading Quantitative Evaluation of Creativity of LLMs
+        - title: Visiting Student
+          company: Westlake NLP Lab
+          company_url: 'https://westlake-nlp.github.io/'
+          location: Hangzhou China
+          date_start: '2024-04-030'
+          date_end: '2024-08-10'
+          mentor: Cunxiang Wang
+          description: |2-
+              Responsibilities include:
+              * Research about Long Form QA
+        - title: Researcher in Center for Collaborative & Conversational Intelligence, Tsinghua University
+          company:  Center for Collaborative & Conversational Intelligence, Tsinghua University
+          company_url: 'http://c3i.ee.tsinghua.edu.cn/'
+          location: Beijing China
+          date_start: '2023-11-10'
+          date_end: '2024-6-03'
+          mentor: Gaochen Wu
+          description: Focusing on the Evaluation of LLMs and Long Context Generation.
+        - title: Researcher in Knowledge Engineering Group, Tsinghua University
+          company: Knowledge Engineering Group, Tsinghua University
+          company_url: 'https://keg.cs.tsinghua.edu.cn/'
+          location: Beijing China
+          date_start: '2022-10-15'
+          date_end: '2023-10-20'
+          mentor: Zijun Yao
+          description: Focusing on the Information Extraction and Evaluation of LLMs.
+        - title: Undergraduate of Beijing University of Posts and Telecommunications
+          company: Beijing University of Posts and Telecommunications
+          company_url: 'https://bupt.edu.cn/'
+          location: Beijing China
           date_start: '2021-09-01'
           date_end: '2025-06-30'
-          description: Computer Science Undergraduate Student (AI Researcher)
+          description: Communication Engineering Undergraduate
     design:
       columns: '2'
   - block: accomplishments

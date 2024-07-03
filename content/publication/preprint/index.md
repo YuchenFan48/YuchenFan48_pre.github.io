@@ -1,12 +1,16 @@
 ---
-title: "TFRGAN Leveraging Text Information for Blind Face Restoration with Extreme Degradation"
+title: "Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models"
 authors:
+- Yantao Liu
+- Zijun Yao
+- Xin Lv
 - admin
-- Qian Ning
-- Weisheng Dong
-- Guangming Shi
+- Shulin Cao
+- Jifan Yu
+- Lei Hou
+- Juanzi Li
 date: "2023-03-11T00:00:00Z"
-doi: ""
+doi: "https://aclanthology.org/2024.lrec-main.1493/"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-11T00:00:00Z"
@@ -21,18 +25,7 @@ publication_types: ["1"]
 # publication: ""
 # publication_short: ""
 
-abstract: "Blind face restoration aims to recover high-quality face
-images from unknown degraded low-quality images. Previous
-works that are based on geometric or generative priors
-have achieved impressive performance, but the task remains
-challenging, particularly when it comes to restoring
-severely degraded faces. To address this issue, we propose
-a novel approach TFRGAN, that leverages textual information
-to improve the restoration of extremely degraded face
-images. Specifically, we propose to generate a better and
-more accurate latent code for StyleGAN2 prior via fusing
-the text and image information in the latent code space. Besides,
-extracted textual features are used to modulate the decoding features to obtain more realistic and natural facial images with more reasonable details. Experimental results demonstrate the superiority of the proposed method for restoring severely degraded face images."
+abstract: "Providing knowledge documents for large language models (LLMs) has emerged as a promising solution to update the static knowledge inherent in their parameters. However, knowledge in the document may conflict with the memory of LLMs due to outdated or incorrect knowledge in the LLMs’ parameters. This leads to the necessity of examining the capability of LLMs to assimilate supplemental external knowledge that conflicts with their memory. While previous studies have explained to what extent LLMs extract conflicting knowledge from the provided text, they neglect the necessity to <b>reason</b> with conflicting knowledge. Furthermore, there lack a detailed analysis on strategies to enable LLMs to resolve conflicting knowledge via prompting, decoding strategy, and supervised fine-tuning. To address these limitations, we construct a new dataset, dubbed KNOT, for knowledge conflict resolution examination in the form of question answering. KNOT facilitates in-depth analysis by dividing reasoning with conflicting knowledge into three levels: (1) Direct Extraction, which directly extracts conflicting knowledge to answer questions. (2) Explicit Reasoning, which reasons with conflicting knowledge when the reasoning path is explicitly provided in the question. (3) Implicit Reasoning, where reasoning with conflicting knowledge requires LLMs to infer the reasoning path independently to answer questions. We also conduct extensive experiments on KNOT to establish empirical guidelines for LLMs to utilize conflicting knowledge in complex circumstances. "
 
 # Summary. An optional shortened abstract.
 
@@ -43,7 +36,7 @@ featured: false
 links:
 # - name: Custom Link
 # url: 'https://llm-agent-trust-behavior.github.io/'
-url_pdf: https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf
+url_pdf: https://aclanthology.org/2024.lrec-main.1493/
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -74,7 +67,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
