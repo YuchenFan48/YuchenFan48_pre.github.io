@@ -82,6 +82,7 @@ sections:
           location: Beijing China
           date_start: '2024-07-02'
           date_end: '2024-08-15'
+          logo: frontis
           mentor: Yuanchun Zheng
           description: |2-
               Responsibilities include:
@@ -92,6 +93,7 @@ sections:
           location: Hangzhou China
           date_start: '2024-04-30'
           date_end: '2024-08-10'
+          logo: westlake
           mentor: Cunxiang Wang
           description: |2-
               Responsibilities include:
@@ -102,6 +104,7 @@ sections:
           location: Beijing China
           date_start: '2023-11-10'
           date_end: '2024-06-03'
+          logo: c3i
           mentor: Gaochen Wu
           description: Focusing on the Evaluation of LLMs and Long Context Generation.
         - title: Researcher in Knowledge Engineering Group, Tsinghua University
@@ -110,57 +113,59 @@ sections:
           location: Beijing China
           date_start: '2022-10-15'
           date_end: '2023-10-20'
+          logo: keg
           mentor: Zijun Yao
           description: Focusing on the Information Extraction and Evaluation of LLMs.
         - title: Undergraduate of Beijing University of Posts and Telecommunications
           company: Beijing University of Posts and Telecommunications
           company_url: 'https://bupt.edu.cn/'
           location: Beijing China
+          logo: bupt
           date_start: '2021-09-01'
           date_end: '2025-06-30'
           description: Communication Engineering Undergraduate
     design:
       columns: '2'
-  - block: accomplishments
-    id: learn
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Learning Courses
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - 
-          date_end: '2021-10-11'
-          date_start: '2021-09-01'
-          description: 'A preliminary understanding of Computer graphics'
-          organization: UCSB
-          organization_url: https://www.ucsb.edu/
-          title: UCSB Game 101 Introduction to Modern Computer Graphics
-          url: 'https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html'
-        - 
-          date_end: '2021-11-01'
-          date_start: '2021-10-01'
-          description: Learning Lower-Level Vision
-          organization: Standford
-          organization_url: https://www.stanford.edu/
-          title: Stanford CS236 Deep Generative Models
-          url: https://deepgenerativemodels.github.io/
-        - 
-          date_end: '2021-10-21'
-          date_start: '2020-09-01'
-          description: 'Getting Started with Deep Learning'
-          organization: Stanford Univercity
-          organization_url: https://www.stanford.edu/
-          title: 'CS231n: Deep Learning for Computer Vision'
-          url: 'http://cs231n.stanford.edu/'
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: learn
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: Learning Courses
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - 
+  #         date_end: '2021-10-11'
+  #         date_start: '2021-09-01'
+  #         description: 'A preliminary understanding of Computer graphics'
+  #         organization: UCSB
+  #         organization_url: https://www.ucsb.edu/
+  #         title: UCSB Game 101 Introduction to Modern Computer Graphics
+  #         url: 'https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html'
+  #       - 
+  #         date_end: '2021-11-01'
+  #         date_start: '2021-10-01'
+  #         description: Learning Lower-Level Vision
+  #         organization: Standford
+  #         organization_url: https://www.stanford.edu/
+  #         title: Stanford CS236 Deep Generative Models
+  #         url: https://deepgenerativemodels.github.io/
+  #       - 
+  #         date_end: '2021-10-21'
+  #         date_start: '2020-09-01'
+  #         description: 'Getting Started with Deep Learning'
+  #         organization: Stanford Univercity
+  #         organization_url: https://www.stanford.edu/
+  #         title: 'CS231n: Deep Learning for Computer Vision'
+  #         url: 'http://cs231n.stanford.edu/'
+  #   design:
+  #     columns: '2'
   # - block: collection
   #   id: posts
   #   content:
