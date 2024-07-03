@@ -90,7 +90,7 @@ sections:
           company: Westlake NLP Lab
           company_url: 'https://westlake-nlp.github.io/'
           location: Hangzhou China
-          date_start: '2024-04-030'
+          date_start: '2024-04-30'
           date_end: '2024-08-10'
           mentor: Cunxiang Wang
           description: |2-
