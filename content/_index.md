@@ -101,7 +101,7 @@ sections:
           company_url: 'http://c3i.ee.tsinghua.edu.cn/'
           location: Beijing China
           date_start: '2023-11-10'
-          date_end: '2024-6-03'
+          date_end: '2024-06-03'
           mentor: Gaochen Wu
           description: Focusing on the Evaluation of LLMs and Long Context Generation.
         - title: Researcher in Knowledge Engineering Group, Tsinghua University
@@ -258,9 +258,8 @@ sections:
       text: |-
         If you want to contact me, free free to contact me at any time
       # Contact (add or remove contact options as necessary)
-      email: xiechengxing34@gmail.com
+      email: yuchenfan48@gmail.com
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/xiechengxing34'
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
