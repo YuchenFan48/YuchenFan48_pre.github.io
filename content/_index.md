@@ -82,7 +82,7 @@ sections:
           location: Beijing China
           date_start: '2024-07-02'
           date_end: '2024-08-15'
-          logo: frontis
+          company_logo: frontis
           mentor: Yuanchun Zheng
           description: |2-
               Responsibilities include:
@@ -93,7 +93,7 @@ sections:
           location: Hangzhou China
           date_start: '2024-04-30'
           date_end: '2024-08-10'
-          logo: westlake
+          company_logo: westlake
           mentor: Cunxiang Wang
           description: |2-
               Responsibilities include:
@@ -104,7 +104,7 @@ sections:
           location: Beijing China
           date_start: '2023-11-10'
           date_end: '2024-06-03'
-          logo: c3i
+          company_logo: c3i
           mentor: Gaochen Wu
           description: Focusing on the Evaluation of LLMs and Long Context Generation.
         - title: Researcher in Knowledge Engineering Group, Tsinghua University
@@ -113,14 +113,14 @@ sections:
           location: Beijing China
           date_start: '2022-10-15'
           date_end: '2023-10-20'
-          logo: keg
+          company_logo: keg
           mentor: Zijun Yao
           description: Focusing on the Information Extraction and Evaluation of LLMs.
         - title: Undergraduate of Beijing University of Posts and Telecommunications
           company: Beijing University of Posts and Telecommunications
           company_url: 'https://bupt.edu.cn/'
           location: Beijing China
-          logo: bupt
+          company_logo: bupt
           date_start: '2021-09-01'
           date_end: '2025-06-30'
           description: Communication Engineering Undergraduate
