@@ -1,33 +1,29 @@
 ---
-title: "Can Large Language Model Agents Simulate Human Trust Behaviors?"
+title: "Evaluating Generative Language Models in Information Extraction as Subjective Question Correction"
 authors:
 - admin
-- Canyu Chen
-- Feiran Jia
-- Ziyu Ye
-- Kai Shu
-- Adel Bibi
-- Ziniu Hu
-- Philip Torr
-- Bernard Ghanem
-- Guohao Li
+- Yantao Liu
+- Zijun Yao
+- Jifan Yu
+- Lei Hou
+- Juanzi Li
 date: "2024-03-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-11T00:00:00Z"
+publishDate: "2024-03-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "Submitted to ICML2024"
 # publication_short: ""
 
-abstract: Large Language Model (LLM) agents have been increasingly adopted as simulation tools to model humans in applications such as social science. However, one fundamental question remains can LLM agents really simulate human behaviors? In this paper, we focus on one of the most critical behaviors in human interactions, trust, and aim to investigate whether or not LLM agents can simulate human trust behaviors. We first find that LLM agents generally exhibit trust behaviors, referred to as agent trust, under the framework of Trust Games, which are widely recognized in behavioral economics. Then, we discover that LLM agents can have high behavioral alignment with humans regarding trust behaviors, indicating the feasibility to simulate human trust behaviors with LLM agents. In addition, we probe into the biases in agent trust and the differences in agent trust towards agents and humans. We also explore the intrinsic properties of agent trust under conditions including advanced reasoning strategies and external manipulations. We further offer important implications for various scenarios where trust is paramount. Our study represents a significant step in understanding the behaviors of LLM agents and the LLM-human analogy. The code is here.
+abstract: Modern Large Language Models (LLMs) have showcased remarkable prowess in various tasks necessitating sophisticated cognitive behaviors. Nevertheless, a paradoxical performance discrepancy is observed, where these models underperform in seemingly elementary tasks like relation extraction and event extraction due to two issues in conventional evaluation. (1) The imprecision of existing evaluation metrics that struggle to effectively gauge semantic consistency between model outputs and ground truth, and (2) The inherent incompleteness of evaluation benchmarks, primarily due to restrictive human annotation schemas, resulting in underestimated LLM performances. Inspired by the principles in subjective question correction, we propose a new evaluation method, SQC-Score. This method innovatively utilizes LLMs, fine-tuned through subjective question correction data, to refine matching between model outputs and golden labels. Additionally, by incorporating a Natural Language Inference (NLI) model, SQC-Score enriches golden labels, addressing benchmark incompleteness by acknowledging correct yet previously omitted answers. Results on three information extraction tasks show that SQC-Score is more preferred by human annotators than the baseline metrics. Utilizing SQC-Score, we conduct a comprehensive evaluation of the state-of-the-art LLMs and provide insights for future research for information extraction.
 
 # Summary. An optional shortened abstract.
 
@@ -38,11 +34,11 @@ featured: false
 links:
 #- name: Custom Link
 #  url: #
-url_pdf: https://arxiv.org/abs/2402.04559
-url_code: https://github.com/camel-ai/agent-trust
+url_pdf: https://aclanthology.org/2024.lrec-main.567/
+url_code: 
 #url_dataset: '#'
 #url_poster: '#'
-url_project: https://github.com/camel-ai/agent-trust
+url_project:
 #url_slides: '#'
 #url_source: '#'
 #url_video: '#'
@@ -75,4 +71,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}} -->
 
 <!-- At present, the paper has not yet been published, and relevant materials will not be displayed. -->
-Our project URL: https://llm-agent-trust-behavior.github.io/

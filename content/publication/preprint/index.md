@@ -9,11 +9,10 @@ authors:
 - Jifan Yu
 - Lei Hou
 - Juanzi Li
-date: "2023-03-11T00:00:00Z"
-doi: "https://aclanthology.org/2024.lrec-main.1493/"
+date: "2024-03-11T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-11T00:00:00Z"
+publishDate: "2024-03-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
