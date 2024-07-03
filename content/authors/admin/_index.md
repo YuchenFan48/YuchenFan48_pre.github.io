@@ -94,8 +94,8 @@ social:
 #    label: Follow me on Twitter
 #    display:
 #      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-     icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+     icon_pack: ai
      link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=u75E9OsAAAAJ
   - icon: github
     icon_pack: fab
@@ -117,11 +117,11 @@ social:
   #  link: uploads/transcript.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiechengxing34@gmail.com'
+email: 'yuchenfan48@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am currently pursuing my undergraduate degree in Computer Science at Xidian University. I began with a nine-month internship at Sensetime during my first year, serving as an algorithm intern. In my second year, I focus on face restoration, culminating in the publication of related papers at CVPRW. Currently, I delved into the area of **LLM Agents**. This interest led me to an enriching experience as a visiting student at KAUST from July.2023 to Jan.2024, where I further honed my skills and knowledge in **LLM Agents**. Looking ahead, I am committed to continuing my exploration of LLMs and plan to pursue a **PhD**. For further information or collaboration opportunities, feel free to reach out to me at xiechengxing34@gmail.com.
+I am currently pursuing my undergraduate degree in at Beijing University of Posts and Telecommunications. I am interested in Artificial Intelligence, espeicially NLP and LLMs. I have several research experiences in Tsinghua University around LLMs and I am finding a **PhD** position. For further information or collaboration opportunities, feel free to reach out to me at yuchenfan48@gmail.com.
 {style="text-align: justify;"}
