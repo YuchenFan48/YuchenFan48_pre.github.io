@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Xidian Undergraduates'
-    description: 'A website with academic information about  Chengxing Xie'
+    org_name: 'Beijing University of Posts and Telecommunications Undergraduate'
+    description: 'A website with academic information about Yuchen Fan'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/yitianlian/<repository>'
+    url: 'https://github.com/yuchenfan48/<repository>'
     content_dir: content
     branch: main
   avatar:
