@@ -87,7 +87,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Leading Quantitative Evaluation of Creativity of LLMs
-        - title: Visiting Student
+        - title: Visiting Student in NLP
           company: Westlake NLP Lab
           company_url: 'https://westlake-nlp.github.io/'
           location: Hangzhou China
@@ -98,7 +98,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Research about Long Form QA
-        - title: Researcher in Center for Collaborative & Conversational Intelligence, Tsinghua University
+        - title: AI Researcher
           company:  Center for Collaborative & Conversational Intelligence, Tsinghua University
           company_url: 'http://c3i.ee.tsinghua.edu.cn/'
           location: Beijing China
@@ -107,7 +107,7 @@ sections:
           company_logo: c3i
           mentor: Gaochen Wu
           description: Focusing on the Evaluation of LLMs and Long Context Generation.
-        - title: Researcher in Knowledge Engineering Group, Tsinghua University
+        - title: AI Researcher
           company: Knowledge Engineering Group, Tsinghua University
           company_url: 'https://keg.cs.tsinghua.edu.cn/'
           location: Beijing China
@@ -116,7 +116,7 @@ sections:
           company_logo: keg
           mentor: Zijun Yao
           description: Focusing on the Information Extraction and Evaluation of LLMs.
-        - title: Undergraduate of Beijing University of Posts and Telecommunications
+        - title: Undergraduate
           company: Beijing University of Posts and Telecommunications
           company_url: 'https://bupt.edu.cn/'
           location: Beijing China
